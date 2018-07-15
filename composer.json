@@ -1,0 +1,14 @@
+{
+    "name": "vladar/graphql-visitor-example",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "webonyx/graphql-php": "^0.12.4"
+    },
+    "scripts": {
+        "run-example": "php src/run.php"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
